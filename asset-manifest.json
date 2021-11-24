@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Micro/static/css/main.c0e116d2.chunk.css",
+    "main.js": "/Micro/static/js/main.b69a7052.chunk.js",
+    "main.js.map": "/Micro/static/js/main.b69a7052.chunk.js.map",
+    "runtime-main.js": "/Micro/static/js/runtime-main.0abd33a3.js",
+    "runtime-main.js.map": "/Micro/static/js/runtime-main.0abd33a3.js.map",
+    "static/js/2.119b4301.chunk.js": "/Micro/static/js/2.119b4301.chunk.js",
+    "static/js/2.119b4301.chunk.js.map": "/Micro/static/js/2.119b4301.chunk.js.map",
+    "index.html": "/Micro/index.html",
+    "static/css/main.c0e116d2.chunk.css.map": "/Micro/static/css/main.c0e116d2.chunk.css.map",
+    "static/js/2.119b4301.chunk.js.LICENSE.txt": "/Micro/static/js/2.119b4301.chunk.js.LICENSE.txt",
+    "static/media/1.17db1019.webp": "/Micro/static/media/1.17db1019.webp",
+    "static/media/3.38c5f5d8.webp": "/Micro/static/media/3.38c5f5d8.webp",
+    "static/media/4.6376ff66.webp": "/Micro/static/media/4.6376ff66.webp",
+    "static/media/startup.ced401dd.png": "/Micro/static/media/startup.ced401dd.png",
+    "static/media/toi.cff16b3b.png": "/Micro/static/media/toi.cff16b3b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0abd33a3.js",
+    "static/js/2.119b4301.chunk.js",
+    "static/css/main.c0e116d2.chunk.css",
+    "static/js/main.b69a7052.chunk.js"
+  ]
+}
