@@ -1,0 +1,1236 @@
+{
+  "adBanner" : {
+    "adBanner001" : {
+      "bannerCampaignName" : "MicroDegree Pro Offer",
+      "bannerEndDate" : "11/2/26 7:00",
+      "bannerId" : "adBanner001",
+      "bannerImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Software%20Developer.jpg?alt=media&token=6fbd250b-b882-468b-ac66-2e3a0fa80af6",
+      "bannerStartDate" : "11/1/21 7:00",
+      "bannerType" : "promo",
+      "bannerWeightage" : "40",
+      "buttonName" : "Enroll now",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "targetPage" : "https://pages.razorpay.com/pl_Gev62ka8kgBbte/view"
+    },
+    "adBanner002" : {
+      "bannerCampaignName" : "live offer",
+      "bannerEndDate" : "11/2/26 7:00",
+      "bannerId" : "adBanner002",
+      "bannerImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Web%20Development.jpg?alt=media&token=cb3aaeef-349a-4e0b-8814-046fe69e5cae",
+      "bannerStartDate" : "11/1/21 7:00",
+      "bannerType" : "promo",
+      "bannerWeightage" : "50",
+      "buttonName" : "Learn More",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "targetPage" : "https://pages.razorpay.com/pl_Gev62ka8kgBbte/view"
+    },
+    "adBanner003" : {
+      "bannerCampaignName" : "Rajyotsava Offer",
+      "bannerEndDate" : "12/1/21 7:00",
+      "bannerId" : "adBanner003",
+      "bannerImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AWS%20_%20DevOps.png?alt=media&token=ba7fb4df-d9c0-4484-abea-676bd38aa932",
+      "bannerStartDate" : "11/1/21 7:00",
+      "bannerType" : "offers",
+      "bannerWeightage" : "30",
+      "buttonName" : "Enroll now",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "targetPage" : "https://pages.razorpay.com/pl_GHEIERLfKKSkfx/view"
+    },
+    "adBanner004" : {
+      "bannerCampaignName" : "Special Offer - 2 courses for 999",
+      "bannerEndDate" : "11/2/22 7:00",
+      "bannerId" : "adBanner004",
+      "bannerImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AIML.jpg?alt=media&token=acf0e102-82ed-4f88-91cc-db1c634f32bd",
+      "bannerStartDate" : "11/1/21 7:00",
+      "bannerType" : "offers",
+      "bannerWeightage" : "20",
+      "buttonName" : "NULL",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "targetPage" : "https://pages.razorpay.com/pl_GHEIERLfKKSkfx/view"
+    },
+    "adBanner005" : {
+      "bannerCampaignName" : "First Time Offer",
+      "bannerEndDate" : "11/2/21 7:00",
+      "bannerId" : "adBanner005",
+      "bannerImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Aptitude.png?alt=media&token=4f034c1f-bd9e-46b0-b78b-97d464424209",
+      "bannerStartDate" : "11/1/21 7:00",
+      "bannerType" : "offers",
+      "bannerWeightage" : "10",
+      "buttonName" : "Enroll now",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "targetPage" : "https://pages.razorpay.com/pl_GHEIERLfKKSkfx/view"
+    }
+  },
+  "categories" : {
+    "cat001" : {
+      "categoryId" : "cat001",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Software%20Developer.jpg?alt=media&token=6fbd250b-b882-468b-ac66-2e3a0fa80af6",
+      "categoryName" : "DataScience",
+      "categoryType" : "popularCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "cat002" : {
+      "categoryId" : "cat002",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Web%20Development.jpg?alt=media&token=cb3aaeef-349a-4e0b-8814-046fe69e5cae",
+      "categoryName" : "Testing",
+      "categoryType" : "popularCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "cat003" : {
+      "categoryId" : "cat003",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AWS%20_%20DevOps.png?alt=media&token=ba7fb4df-d9c0-4484-abea-676bd38aa932",
+      "categoryName" : "AWS",
+      "categoryType" : "popularCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "cat004" : {
+      "categoryId" : "cat004",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AIML.jpg?alt=media&token=acf0e102-82ed-4f88-91cc-db1c634f32bd",
+      "categoryName" : "Frontend Development",
+      "categoryType" : "popularCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "cat005" : {
+      "categoryId" : "cat005",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Aptitude.png?alt=media&token=4f034c1f-bd9e-46b0-b78b-97d464424209",
+      "categoryName" : "freshers",
+      "categoryType" : "experienceCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "cat006" : {
+      "categoryId" : "cat006",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Autoation%20Testing.jpg?alt=media&token=46d5506a-0038-43cb-a8c1-ba64b1706f4e",
+      "categoryName" : "students",
+      "categoryType" : "experienceCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "cat007" : {
+      "categoryId" : "cat007",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Software%20Developer.jpg?alt=media&token=6fbd250b-b882-468b-ac66-2e3a0fa80af6",
+      "categoryName" : "early professionals",
+      "categoryType" : "experienceCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "cat008" : {
+      "categoryId" : "cat008",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Web%20Development.jpg?alt=media&token=cb3aaeef-349a-4e0b-8814-046fe69e5cae",
+      "categoryName" : "recommended",
+      "categoryType" : "recommendedCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "cat009" : {
+      "categoryId" : "cat009",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AWS%20_%20DevOps.png?alt=media&token=ba7fb4df-d9c0-4484-abea-676bd38aa932",
+      "categoryName" : "frontend dev",
+      "categoryType" : "jobRoleCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Gaurav",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "cat010" : {
+      "categoryId" : "cat010",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AIML.jpg?alt=media&token=acf0e102-82ed-4f88-91cc-db1c634f32bd",
+      "categoryName" : "backend Dev",
+      "categoryType" : "jobRoleCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Gaurav",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "cat011" : {
+      "categoryId" : "cat011",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Aptitude.png?alt=media&token=4f034c1f-bd9e-46b0-b78b-97d464424209",
+      "categoryName" : "web dev",
+      "categoryType" : "jobRoleCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Gaurav",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "cat012" : {
+      "categoryId" : "cat012",
+      "categoryImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Autoation%20Testing.jpg?alt=media&token=46d5506a-0038-43cb-a8c1-ba64b1706f4e",
+      "categoryName" : "fullstack dev",
+      "categoryType" : "jobRoleCategory",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Gaurav",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    }
+  },
+  "categoryCourseMapping" : {
+    "catC001" : {
+      "categoryCourseId" : "catC001",
+      "categoryName" : "DataScience",
+      "courseId" : "course001",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat001",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC002" : {
+      "categoryCourseId" : "catC002",
+      "categoryName" : "Testing",
+      "courseId" : "course002",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat001",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC003" : {
+      "categoryCourseId" : "catC003",
+      "categoryName" : "AWS",
+      "courseId" : "course003",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat001",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC004" : {
+      "categoryCourseId" : "catC004",
+      "categoryName" : "Frontend Development",
+      "courseId" : "course004",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat002",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC005" : {
+      "categoryCourseId" : "catC005",
+      "categoryName" : "Testing",
+      "courseId" : "course005",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat002",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC006" : {
+      "categoryCourseId" : "catC006",
+      "categoryName" : "web",
+      "courseId" : "course006",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat003",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC007" : {
+      "categoryCourseId" : "catC007",
+      "categoryName" : "devops",
+      "courseId" : "course007",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat003",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC008" : {
+      "categoryCourseId" : "catC008",
+      "categoryName" : "bigdata",
+      "courseId" : "course008",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat003",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC009" : {
+      "categoryCourseId" : "catC009",
+      "categoryName" : "software developer",
+      "courseId" : "course009",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat004",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC010" : {
+      "categoryCourseId" : "catC010",
+      "categoryName" : "html css",
+      "courseId" : "course010",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat004",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC011" : {
+      "categoryCourseId" : "catC011",
+      "categoryName" : "mysql",
+      "courseId" : "course011",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat004",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC012" : {
+      "categoryCourseId" : "catC012",
+      "categoryName" : "java",
+      "courseId" : "course012",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat005",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC013" : {
+      "categoryCourseId" : "catC013",
+      "categoryName" : "php",
+      "courseId" : "course013",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat005",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC014" : {
+      "categoryCourseId" : "catC014",
+      "categoryName" : "c",
+      "courseId" : "course014",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat005",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC015" : {
+      "categoryCourseId" : "catC015",
+      "categoryName" : "c++",
+      "courseId" : "course015",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat006",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC016" : {
+      "categoryCourseId" : "catC016",
+      "categoryName" : "javascript",
+      "courseId" : "course016",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat006",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC017" : {
+      "categoryCourseId" : "catC017",
+      "categoryName" : "python",
+      "courseId" : "course017",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat006",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC018" : {
+      "categoryCourseId" : "catC018",
+      "categoryName" : "python live",
+      "courseId" : "course018",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat007",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC019" : {
+      "categoryCourseId" : "catC019",
+      "categoryName" : "mern",
+      "courseId" : "course019",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat007",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "catC020" : {
+      "categoryCourseId" : "catC020",
+      "categoryName" : "AIML",
+      "courseId" : "course020",
+      "createdTimestamp" : "11/1/21 7:00",
+      "filterByCategoryId" : "cat007",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    }
+  },
+  "courseCurriculum" : {
+    "cc001" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc001",
+      "courseId" : "course001",
+      "curriculumChapterTitle" : "Manual Testing Basics"
+    },
+    "cc002" : {
+      "courseCurriculumId" : "cc002",
+      "courseId" : "course001",
+      "curriculumChapterTitle" : "Manual Testing Strong Foundations"
+    },
+    "cc003" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc003",
+      "courseId" : "course001",
+      "curriculumChapterTitle" : "Manual Testing Intermediate Concepts"
+    },
+    "cc004" : {
+      "courseCurriculumId" : "cc004",
+      "courseId" : "course001",
+      "curriculumChapterTitle" : "Projects"
+    },
+    "cc005" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc005",
+      "courseId" : "course002",
+      "curriculumChapterTitle" : "MERN Basics"
+    },
+    "cc006" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc006",
+      "courseId" : "course002",
+      "curriculumChapterTitle" : "MERN Strong Foundations"
+    },
+    "cc007" : {
+      "courseCurriculumId" : "cc007",
+      "courseId" : "course002",
+      "curriculumChapterTitle" : "MERN Intermediate Concepts"
+    },
+    "cc008" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc008",
+      "courseId" : "course002",
+      "curriculumChapterTitle" : "Projects"
+    },
+    "cc009" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc009",
+      "courseId" : "course003",
+      "curriculumChapterTitle" : "MYSQL Basics"
+    },
+    "cc010" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc010",
+      "courseId" : "course003",
+      "curriculumChapterTitle" : "MYSQL Strong Foundations"
+    },
+    "cc011" : {
+      "courseCurriculumId" : "cc011",
+      "courseId" : "course003",
+      "curriculumChapterTitle" : "MYSQL Intermediate Concepts"
+    },
+    "cc012" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc012",
+      "courseId" : "course003",
+      "curriculumChapterTitle" : "Projects"
+    },
+    "cc013" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc013",
+      "courseId" : "course004",
+      "curriculumChapterTitle" : "ReactJS Basics"
+    },
+    "cc014" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc014",
+      "courseId" : "course004",
+      "curriculumChapterTitle" : "ReactJS Strong Foundations"
+    },
+    "cc015" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc015",
+      "courseId" : "course004",
+      "curriculumChapterTitle" : "ReactJS Intermediate Concepts"
+    },
+    "cc016" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc016",
+      "courseId" : "course004",
+      "curriculumChapterTitle" : "Projects"
+    },
+    "cc017" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc017",
+      "courseId" : "course005",
+      "curriculumChapterTitle" : "Python Basics"
+    },
+    "cc018" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc018",
+      "courseId" : "course005",
+      "curriculumChapterTitle" : "Python Strong Foundations"
+    },
+    "cc019" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc019",
+      "courseId" : "course005",
+      "curriculumChapterTitle" : "Python Intermediate Concepts"
+    },
+    "cc020" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc020",
+      "courseId" : "course005",
+      "curriculumChapterTitle" : "Python Advanced"
+    },
+    "cc021" : {
+      "chapterPreviewLink" : "NULL",
+      "courseCurriculumId" : "cc021",
+      "courseId" : "course005",
+      "curriculumChapterTitle" : "Python - Github"
+    },
+    "cc022" : {
+      "courseCurriculumId" : "cc022",
+      "courseId" : "course005",
+      "curriculumChapterTitle" : "Python - Certification"
+    }
+  },
+  "courseDetails" : {
+    "course001" : {
+      "courseDemoVideoUrl" : "https://youtu.be/jsEyG5uIAFo \r\nhttps://youtu.be/D7Wz3GMETKI",
+      "courseId" : "course001",
+      "courseRoadMapUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Software%20Developer.jpg?alt=media&token=6fbd250b-b882-468b-ac66-2e3a0fa80af6",
+      "courseSubTitle" : "2 Months Intensive Hands-on Training Program For Beginners With Internship",
+      "courseTitle" : "Manual Testing Program"
+    },
+    "course002" : {
+      "courseId" : "course002",
+      "courseRoadMapUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Web%20Development.jpg?alt=media&token=cb3aaeef-349a-4e0b-8814-046fe69e5cae",
+      "courseSubTitle" : "Master Full Stack Web Development by building an Amazon Clone Portfolio Project",
+      "courseTitle" : "Full Stack Development - MERN"
+    },
+    "course003" : {
+      "courseDemoVideoUrl" : "https://youtu.be/HMrQQj525yw \r\nhttps://youtu.be/DELkQsqaFLs",
+      "courseId" : "course003",
+      "courseRoadMapUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AWS%20_%20DevOps.png?alt=media&token=ba7fb4df-d9c0-4484-abea-676bd38aa932",
+      "courseSubTitle" : "Master AWS & DevOps from industry experts to become a solid Cloud Computing Professional",
+      "courseTitle" : "AWS & DevOps Certification (LIVE)"
+    },
+    "course004" : {
+      "courseDemoVideoUrl" : "https://youtu.be/i7ndEiIEaUQ \r\nhttps://youtu.be/DSwKWAFdMyo",
+      "courseId" : "course004",
+      "courseRoadMapUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AIML.jpg?alt=media&token=acf0e102-82ed-4f88-91cc-db1c634f32bd",
+      "courseSubTitle" : "Learn Python from scratch and build interactve projects. Kick-start your journey into the world of Data Science and Machine Learning here.",
+      "courseTitle" : "Python"
+    },
+    "course005" : {
+      "courseDemoVideoUrl" : "https://youtu.be/Rg4CSFIWwwY \r\nhttps://youtu.be/lkzwwp9x_9s",
+      "courseId" : "course005",
+      "courseRoadMapUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Aptitude.png?alt=media&token=4f034c1f-bd9e-46b0-b78b-97d464424209",
+      "courseSubTitle" : "ಬನ್ನಿ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಅನ್ನು ಸುಲಭವಾಗಿ ಕನ್ನಡದಲ್ಲಿ ಕಲಿಯೋಣ.",
+      "courseTitle" : "Python (LIVE Online)"
+    },
+    "course006" : {
+      "courseDemoVideoUrl" : "https://youtu.be/HMrQQj525yw \r\nhttps://youtu.be/DELkQsqaFLs",
+      "courseId" : "course006",
+      "courseRoadMapUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Autoation%20Testing.jpg?alt=media&token=46d5506a-0038-43cb-a8c1-ba64b1706f4e",
+      "courseSubTitle" : "Master on-demand skills from Industry Experts to become a solid DevOps Professional",
+      "courseTitle" : "DevOps Certification (LIVE)"
+    },
+    "course007" : {
+      "courseDemoVideoUrl" : "https://youtu.be/Eg3nipHaM2k",
+      "courseId" : "course007",
+      "courseRoadMapUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Software%20Developer.jpg?alt=media&token=6fbd250b-b882-468b-ac66-2e3a0fa80af6",
+      "courseSubTitle" : "ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಅನ್ನು ಸುಲಭವಾಗಿ ಕನ್ನಡಲ್ಲಿ ಕಲಿಯೋಣ .Learn the power of Javascript from scratch, master it by building 4 interesting projects and land your first dream job.",
+      "courseTitle" : "JavaScript (Advanced)"
+    },
+    "course008" : {
+      "courseId" : "course008",
+      "courseRoadMapUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Web%20Development.jpg?alt=media&token=cb3aaeef-349a-4e0b-8814-046fe69e5cae",
+      "courseSubTitle" : "Master Automation and learn most in-demand skills like Python, Selenium & Automation testing to become a solid QA Professional",
+      "courseTitle" : "Automation Testing - Selenium"
+    },
+    "course009" : {
+      "courseDemoVideoUrl" : "https://youtu.be/lVIDVAfFP9k \r\nhttps://youtu.be/ilDF3hTnZs4",
+      "courseId" : "course009",
+      "courseRoadMapUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AWS%20_%20DevOps.png?alt=media&token=ba7fb4df-d9c0-4484-abea-676bd38aa932",
+      "courseSubTitle" : "ಡೇಟಾ ಇನ್ನು ಸುಲಭ.Dive into the world of Data Science with hands-on exposure to real-world data sets & gear up for your dream data career.",
+      "courseTitle" : "Data Analytics"
+    },
+    "course010" : {
+      "courseDemoVideoUrl" : "https://youtu.be/ICZXv2hTBKs\r\nhttps://youtu.be/Urv8sRBYXKc",
+      "courseId" : "course010",
+      "courseRoadMapUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AIML.jpg?alt=media&token=acf0e102-82ed-4f88-91cc-db1c634f32bd",
+      "courseSubTitle" : "Learn Machine learning from the best in the industry.",
+      "courseTitle" : "Artificial Intelligence & Machine Learning"
+    },
+    "course011" : {
+      "courseDemoVideoUrl" : "https://youtu.be/TP4reK-dm5M \r\nhttps://youtu.be/2mJ9KdamKZE",
+      "courseId" : "course011",
+      "courseRoadMapUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Aptitude.png?alt=media&token=4f034c1f-bd9e-46b0-b78b-97d464424209",
+      "courseSubTitle" : "MySQLನ್ನು ಸುಲಭವಾಗಿ ಕನ್ನಡದಲ್ಲಿ ಕಲಿಯಿರಿ, Developer ಆಗಲು ಸಿದ್ದರಾಗಿ",
+      "courseTitle" : "MySQL"
+    }
+  },
+  "courseFaqs" : {
+    "cf001" : {
+      "courseFaqDescription" : "The program is designed to suit all levels of Data Science expertise. From the fundamentals to the advanced concepts in Data Science, the course covers everything you need to know, whether you’re a novice or an expert. To facilitate development of immediately applicable skills, the training adopts an applied learning approach with instructor-led training, hands-on exercises, projects, and activities.",
+      "courseFaqTitle" : "I am a novice in Data Science. Is the Data Science with Python Certification Course suitable for me?",
+      "courseFaqsId" : "cf001",
+      "courseId" : "course001"
+    },
+    "cf002" : {
+      "courseFaqDescription" : "Yes, our Data Science with Python course is designed to offer flexibility for you to upskill as per your convenience. We have both weekday and weekend batches to accommodate your current job.",
+      "courseFaqTitle" : "Can I pursue this course along with my full-time job?",
+      "courseFaqsId" : "cf002",
+      "courseId" : "course001"
+    },
+    "cf003" : {
+      "courseFaqDescription" : "In addition to the training hours, we recommend spending about 2 hours every day, for the duration of course.",
+      "courseFaqTitle" : "How many hours of study will be required every week?",
+      "courseFaqsId" : "cf003",
+      "courseId" : "course001"
+    },
+    "cf004" : {
+      "courseFaqDescription" : "The program is designed to suit all levels of Data Science expertise. From the fundamentals to the advanced concepts in Data Science, the course covers everything you need to know, whether you’re a novice or an expert. To facilitate development of immediately applicable skills, the training adopts an applied learning approach with instructor-led training, hands-on exercises, projects, and activities.",
+      "courseFaqTitle" : "I am a novice in Data Science. Is the Data Science with Python Certification Course suitable for me?",
+      "courseFaqsId" : "cf004",
+      "courseId" : "course002"
+    },
+    "cf005" : {
+      "courseFaqDescription" : "Yes, our Data Science with Python course is designed to offer flexibility for you to upskill as per your convenience. We have both weekday and weekend batches to accommodate your current job.",
+      "courseFaqTitle" : "Can I pursue this course along with my full-time job?",
+      "courseFaqsId" : "cf005",
+      "courseId" : "course002"
+    },
+    "cf006" : {
+      "courseFaqDescription" : "In addition to the training hours, we recommend spending about 2 hours every day, for the duration of course.",
+      "courseFaqTitle" : "How many hours of study will be required every week?",
+      "courseFaqsId" : "cf006",
+      "courseId" : "course002"
+    }
+  },
+  "courseHighlights" : {
+    "ch001" : {
+      "chIconUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Web%20Development.jpg?alt=media&token=cb3aaeef-349a-4e0b-8814-046fe69e5cae",
+      "courseHighlightsId" : "ch001",
+      "courseId" : "course001",
+      "overview" : "15+ Hours of Course Content,\r\nCovers Python & Jupyter Notebook,\r\nExpertise on Linear & Logistic Regression, Naive Bayes, Decision Tree",
+      "title" : "End to end coverage"
+    },
+    "ch002" : {
+      "chIconUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Software%20Developer.jpg?alt=media&token=6fbd250b-b882-468b-ac66-2e3a0fa80af6",
+      "courseHighlightsId" : "ch002",
+      "courseId" : "course001",
+      "overview" : "Instant Doubt Clarification, \r\nTelegram Developer Community, \r\nReal-world Capstone Project,",
+      "title" : "All round help"
+    },
+    "ch003" : {
+      "chIconUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Web%20Development.jpg?alt=media&token=cb3aaeef-349a-4e0b-8814-046fe69e5cae",
+      "courseHighlightsId" : "ch003",
+      "courseId" : "course001",
+      "overview" : "Quizzes & Mini-projects, \r\nCertification of Completion, \r\nBecome an Alumni of MicroDegree,",
+      "title" : "Handson practice"
+    },
+    "ch004" : {
+      "chIconUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AWS%20_%20DevOps.png?alt=media&token=ba7fb4df-d9c0-4484-abea-676bd38aa932",
+      "courseHighlightsId" : "ch004",
+      "courseId" : "course002",
+      "overview" : "15+ Hours of Course Content,\r\nCovers Python & Jupyter Notebook,\r\nExpertise on Linear & Logistic Regression, Naive Bayes, Decision Tree",
+      "title" : "End to end coverage"
+    },
+    "ch005" : {
+      "chIconUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AIML.jpg?alt=media&token=acf0e102-82ed-4f88-91cc-db1c634f32bd",
+      "courseHighlightsId" : "ch005",
+      "courseId" : "course002",
+      "overview" : "Instant Doubt Clarification, \r\nTelegram Developer Community, \r\nReal-world Capstone Project,",
+      "title" : "All round help"
+    },
+    "ch006" : {
+      "chIconUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Aptitude.png?alt=media&token=4f034c1f-bd9e-46b0-b78b-97d464424209",
+      "courseHighlightsId" : "ch006",
+      "courseId" : "course002",
+      "overview" : "Quizzes & Mini-projects, \r\nCertification of Completion, \r\nBecome an Alumni of MicroDegree,",
+      "title" : "Handson practice"
+    }
+  },
+  "courseScope" : {
+    "cs001" : {
+      "courseId" : "course001",
+      "courseScopeDescription" : "Data Science has bagged the top spot in LinkedIn’s Emerging Jobs Report for the last three years. Thousands of companies need team members who can transform data sets into strategic forecasts. Acquire in-demand data science and Python skills and meet that need. \r\nData Science and AI have taken the centre-stage as more and more brands realise the possibilities of these tools in the post-COVID world. The demand for data engineers was up 50% and the demand for data scientists was up 32% in 2020 compared to the prior year. The average salary for a data scientist in the U.S. is $96,494 per year and the demand for data scientists is pegged to grow by 16% between 2020 and 2028, a rate that’s faster than the average for all occupations (PayScale). \r\n\r\nCapitalize on the demand for the ‘hottest job of the 21st century’ with a program primed for industry relevance.",
+      "courseScopeId" : "cs001",
+      "courseScopeImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Scope%2Fscope1.png?alt=media&token=11a3a9ba-4db9-451b-a3a9-06a7b98c79fa"
+    },
+    "cs002" : {
+      "courseId" : "course002",
+      "courseScopeDescription" : "Data Science has bagged the top spot in LinkedIn’s Emerging Jobs Report for the last three years. Thousands of companies need team members who can transform data sets into strategic forecasts. Acquire in-demand data science and Python skills and meet that need. \r\nData Science and AI have taken the centre-stage as more and more brands realise the possibilities of these tools in the post-COVID world. The demand for data engineers was up 50% and the demand for data scientists was up 32% in 2020 compared to the prior year. The average salary for a data scientist in the U.S. is $96,494 per year and the demand for data scientists is pegged to grow by 16% between 2020 and 2028, a rate that’s faster than the average for all occupations (PayScale). \r\n\r\nCapitalize on the demand for the ‘hottest job of the 21st century’ with a program primed for industry relevance.",
+      "courseScopeId" : "cs002",
+      "courseScopeImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Scope%2Fscope1.png?alt=media&token=11a3a9ba-4db9-451b-a3a9-06a7b98c79fa"
+    },
+    "cs003" : {
+      "courseId" : "course003",
+      "courseScopeDescription" : "Data Science has bagged the top spot in LinkedIn’s Emerging Jobs Report for the last three years. Thousands of companies need team members who can transform data sets into strategic forecasts. Acquire in-demand data science and Python skills and meet that need. \r\nData Science and AI have taken the centre-stage as more and more brands realise the possibilities of these tools in the post-COVID world. The demand for data engineers was up 50% and the demand for data scientists was up 32% in 2020 compared to the prior year. The average salary for a data scientist in the U.S. is $96,494 per year and the demand for data scientists is pegged to grow by 16% between 2020 and 2028, a rate that’s faster than the average for all occupations (PayScale). \r\n\r\nCapitalize on the demand for the ‘hottest job of the 21st century’ with a program primed for industry relevance.",
+      "courseScopeId" : "cs003",
+      "courseScopeImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Scope%2Fscope1.png?alt=media&token=11a3a9ba-4db9-451b-a3a9-06a7b98c79fa"
+    },
+    "cs004" : {
+      "courseId" : "course004",
+      "courseScopeDescription" : "Data Science has bagged the top spot in LinkedIn’s Emerging Jobs Report for the last three years. Thousands of companies need team members who can transform data sets into strategic forecasts. Acquire in-demand data science and Python skills and meet that need. \r\nData Science and AI have taken the centre-stage as more and more brands realise the possibilities of these tools in the post-COVID world. The demand for data engineers was up 50% and the demand for data scientists was up 32% in 2020 compared to the prior year. The average salary for a data scientist in the U.S. is $96,494 per year and the demand for data scientists is pegged to grow by 16% between 2020 and 2028, a rate that’s faster than the average for all occupations (PayScale). \r\n\r\nCapitalize on the demand for the ‘hottest job of the 21st century’ with a program primed for industry relevance.",
+      "courseScopeId" : "cs004",
+      "courseScopeImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Scope%2Fscope1.png?alt=media&token=11a3a9ba-4db9-451b-a3a9-06a7b98c79fa"
+    },
+    "cs005" : {
+      "courseId" : "course005",
+      "courseScopeDescription" : "Data Science has bagged the top spot in LinkedIn’s Emerging Jobs Report for the last three years. Thousands of companies need team members who can transform data sets into strategic forecasts. Acquire in-demand data science and Python skills and meet that need. \r\nData Science and AI have taken the centre-stage as more and more brands realise the possibilities of these tools in the post-COVID world. The demand for data engineers was up 50% and the demand for data scientists was up 32% in 2020 compared to the prior year. The average salary for a data scientist in the U.S. is $96,494 per year and the demand for data scientists is pegged to grow by 16% between 2020 and 2028, a rate that’s faster than the average for all occupations (PayScale). \r\n\r\nCapitalize on the demand for the ‘hottest job of the 21st century’ with a program primed for industry relevance.",
+      "courseScopeId" : "cs005",
+      "courseScopeImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Scope%2Fscope1.png?alt=media&token=11a3a9ba-4db9-451b-a3a9-06a7b98c79fa"
+    },
+    "cs006" : {
+      "courseId" : "course006",
+      "courseScopeDescription" : "Data Science has bagged the top spot in LinkedIn’s Emerging Jobs Report for the last three years. Thousands of companies need team members who can transform data sets into strategic forecasts. Acquire in-demand data science and Python skills and meet that need. \r\nData Science and AI have taken the centre-stage as more and more brands realise the possibilities of these tools in the post-COVID world. The demand for data engineers was up 50% and the demand for data scientists was up 32% in 2020 compared to the prior year. The average salary for a data scientist in the U.S. is $96,494 per year and the demand for data scientists is pegged to grow by 16% between 2020 and 2028, a rate that’s faster than the average for all occupations (PayScale). \r\n\r\nCapitalize on the demand for the ‘hottest job of the 21st century’ with a program primed for industry relevance.",
+      "courseScopeId" : "cs006",
+      "courseScopeImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Scope%2Fscope1.png?alt=media&token=11a3a9ba-4db9-451b-a3a9-06a7b98c79fa"
+    },
+    "cs007" : {
+      "courseId" : "course007",
+      "courseScopeDescription" : "Data Science has bagged the top spot in LinkedIn’s Emerging Jobs Report for the last three years. Thousands of companies need team members who can transform data sets into strategic forecasts. Acquire in-demand data science and Python skills and meet that need.\r\nData Science and AI have taken the centre-stage as more and more brands realise the possibilities of these tools in the post-COVID world. The demand for data engineers was up 50% and the demand for data scientists was up 32% in 2020 compared to the prior year. The average salary for a data scientist in the U.S. is $96,494 per year and the demand for data scientists is pegged to grow by 16% between 2020 and 2028, a rate that’s faster than the average for all occupations (PayScale). \r\n\r\nCapitalize on the demand for the ‘hottest job of the 21st century’ with a program primed for industry relevance.",
+      "courseScopeId" : "cs007",
+      "courseScopeImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Scope%2Fscope1.png?alt=media&token=11a3a9ba-4db9-451b-a3a9-06a7b98c79fa"
+    }
+  },
+  "courseTitlePointers" : {
+    "ctp001" : {
+      "courseId" : "course001",
+      "coursePointer" : "Learn Python, analyze and visualize data with Pandas, Matplotlib and Scikit",
+      "courseTitlePointersId" : "ctp001",
+      "pointerType" : "pointer"
+    },
+    "ctp002" : {
+      "courseId" : "course001",
+      "coursePointer" : "Create robust predictive models with advanced statistics",
+      "courseTitlePointersId" : "ctp002",
+      "pointerType" : "pointer"
+    },
+    "ctp003" : {
+      "courseId" : "course001",
+      "coursePointer" : "Leverage hypothesis testing and inferential statistics for sound decision-making",
+      "courseTitlePointersId" : "ctp003",
+      "pointerType" : "pointer"
+    },
+    "ctp004" : {
+      "courseId" : "course002",
+      "coursePointer" : "32 hours of Instructor-led Training",
+      "courseTitlePointersId" : "ctp004",
+      "pointerType" : "pointer"
+    },
+    "ctp005" : {
+      "courseId" : "course002",
+      "coursePointer" : "Analyze and Visualize data with Python libraries",
+      "courseTitlePointersId" : "ctp005",
+      "pointerType" : "pointer"
+    },
+    "ctp006" : {
+      "courseId" : "course002",
+      "coursePointer" : "Analyze and Treat Missing Values",
+      "courseTitlePointersId" : "ctp006",
+      "pointerType" : "pointer"
+    },
+    "ctp007" : {
+      "courseId" : "course001",
+      "coursePointer" : "No prerequisite",
+      "courseTitlePointersId" : "ctp007",
+      "pointerType" : "prerequisite"
+    }
+  },
+  "courses" : {
+    "course001" : {
+      "courseDetailsType" : "course",
+      "courseDiscountedPrice" : "2,500.00",
+      "courseDuration" : "2 months Program",
+      "courseId" : "course001",
+      "courseImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Software%20Developer.jpg?alt=media&token=6fbd250b-b882-468b-ac66-2e3a0fa80af6",
+      "courseOriginalPrice" : "25000",
+      "courseStartDate" : "25-11-2021",
+      "courseTags" : "Testing | Selenium",
+      "courseTiming" : "7pm - 9 pm",
+      "courseTitle" : "Manual Testing Program",
+      "courseType" : "Live+Recorded",
+      "courseWebPageUrl" : "https://courses.microdegree.work/courses/manual-testing-program",
+      "courseWeightage" : "110",
+      "createdTimestamp" : "11/1/21 7:00",
+      "isActive" : "TRUE",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "course002" : {
+      "courseDetailsType" : "pro",
+      "courseDiscountedPrice" : "7,500.00",
+      "courseDuration" : "2 months Program",
+      "courseId" : "course002",
+      "courseImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Web%20Development.jpg?alt=media&token=cb3aaeef-349a-4e0b-8814-046fe69e5cae",
+      "courseOriginalPrice" : "25000",
+      "courseStartDate" : "26-11-2022",
+      "courseTags" : "MERN | Fullstack",
+      "courseTiming" : "7pm - 9 pm",
+      "courseTitle" : "Full Stack Development - MERN",
+      "courseType" : "Live+Recorded",
+      "courseWebPageUrl" : "https://courses.microdegree.work/courses/full-stack-development-mern",
+      "courseWeightage" : "100",
+      "createdTimestamp" : "11/1/21 7:00",
+      "isActive" : "TRUE",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "course003" : {
+      "courseDetailsType" : "course",
+      "courseDiscountedPrice" : "15,000.00",
+      "courseDuration" : "2 months Program",
+      "courseId" : "course003",
+      "courseImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AWS%20_%20DevOps.png?alt=media&token=ba7fb4df-d9c0-4484-abea-676bd38aa932",
+      "courseOriginalPrice" : "25000",
+      "courseStartDate" : "27-11-2023",
+      "courseTags" : "AWS & DevOps ",
+      "courseTiming" : "7pm - 9 pm",
+      "courseTitle" : "AWS & DevOps Certification (LIVE)",
+      "courseType" : "Live+Recorded",
+      "courseWebPageUrl" : "https://courses.microdegree.work/courses/aws-developer-certification-live",
+      "courseWeightage" : "90",
+      "createdTimestamp" : "11/1/21 7:00",
+      "isActive" : "TRUE",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "course004" : {
+      "courseDetailsType" : "course",
+      "courseDiscountedPrice" : "499",
+      "courseDuration" : "NULL",
+      "courseId" : "course004",
+      "courseImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AIML.jpg?alt=media&token=acf0e102-82ed-4f88-91cc-db1c634f32bd",
+      "courseOriginalPrice" : "1000",
+      "courseTags" : "Python",
+      "courseTiming" : "NULL",
+      "courseTitle" : "Python",
+      "courseType" : "recorded",
+      "courseWebPageUrl" : "https://courses.microdegree.work/courses/python",
+      "courseWeightage" : "80",
+      "createdTimestamp" : "11/1/21 7:00",
+      "isActive" : "TRUE",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "course005" : {
+      "courseDetailsType" : "course",
+      "courseDiscountedPrice" : "7,500.00",
+      "courseDuration" : "30 Days",
+      "courseId" : "course005",
+      "courseImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Aptitude.png?alt=media&token=4f034c1f-bd9e-46b0-b78b-97d464424209",
+      "courseOriginalPrice" : "25000",
+      "courseStartDate" : "28-11-2023",
+      "courseTags" : "Python",
+      "courseTiming" : "7pm - 9 pm",
+      "courseTitle" : "Python (LIVE Online)",
+      "courseType" : "Live+Recorded",
+      "courseWebPageUrl" : "https://courses.microdegree.work/courses/python-live-online",
+      "courseWeightage" : "70",
+      "createdTimestamp" : "11/1/21 7:00",
+      "isActive" : "TRUE",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "course006" : {
+      "courseDetailsType" : "course",
+      "courseDiscountedPrice" : "4,900.00",
+      "courseDuration" : "30 Days",
+      "courseId" : "course006",
+      "courseImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Autoation%20Testing.jpg?alt=media&token=46d5506a-0038-43cb-a8c1-ba64b1706f4e",
+      "courseOriginalPrice" : "25000",
+      "courseStartDate" : "28-11-2023",
+      "courseTags" : "DevOps",
+      "courseTiming" : "7pm - 9 pm",
+      "courseTitle" : "DevOps Certification (LIVE)",
+      "courseType" : "Live+Recorded",
+      "courseWebPageUrl" : "https://courses.microdegree.work/courses/devops-certification-live",
+      "courseWeightage" : "60",
+      "createdTimestamp" : "11/1/21 7:00",
+      "isActive" : "TRUE",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "course007" : {
+      "courseDetailsType" : "pro",
+      "courseDiscountedPrice" : "499",
+      "courseId" : "course007",
+      "courseImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Software%20Developer.jpg?alt=media&token=6fbd250b-b882-468b-ac66-2e3a0fa80af6",
+      "courseOriginalPrice" : "1000",
+      "courseStartDate" : "NULL",
+      "courseTags" : "JavaScript",
+      "courseTiming" : "NULL",
+      "courseTitle" : "JavaScript (Advanced)",
+      "courseType" : "recorded",
+      "courseWebPageUrl" : "https://courses.microdegree.work/courses/JavaScriptMasterClass",
+      "courseWeightage" : "50",
+      "createdTimestamp" : "11/1/21 7:00",
+      "isActive" : "TRUE",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "course008" : {
+      "courseDetailsType" : "course",
+      "courseDiscountedPrice" : "949",
+      "courseDuration" : "NULL",
+      "courseId" : "course008",
+      "courseImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Web%20Development.jpg?alt=media&token=cb3aaeef-349a-4e0b-8814-046fe69e5cae",
+      "courseOriginalPrice" : "25000",
+      "courseStartDate" : "NULL",
+      "courseTags" : "Testing",
+      "courseTiming" : "NULL",
+      "courseTitle" : "Automation Testing - Selenium",
+      "courseType" : "recorded",
+      "courseWebPageUrl" : "https://courses.microdegree.work/courses/automation-testing-selenium",
+      "courseWeightage" : "40",
+      "createdTimestamp" : "11/1/21 7:00",
+      "isActive" : "TRUE",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "course009" : {
+      "courseDetailsType" : "course",
+      "courseDiscountedPrice" : "949",
+      "courseDuration" : "NULL",
+      "courseId" : "course009",
+      "courseImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AWS%20_%20DevOps.png?alt=media&token=ba7fb4df-d9c0-4484-abea-676bd38aa932",
+      "courseOriginalPrice" : "2000",
+      "courseStartDate" : "NULL",
+      "courseTags" : "Data Analytics",
+      "courseTiming" : "NULL",
+      "courseTitle" : "Data Analytics",
+      "courseType" : "recorded",
+      "courseWebPageUrl" : "https://courses.microdegree.work/courses/data-analytics",
+      "courseWeightage" : "30",
+      "createdTimestamp" : "11/1/21 7:00",
+      "isActive" : "TRUE",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "course010" : {
+      "courseDetailsType" : "pro",
+      "courseDiscountedPrice" : "949",
+      "courseId" : "course010",
+      "courseImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AIML.jpg?alt=media&token=acf0e102-82ed-4f88-91cc-db1c634f32bd",
+      "courseOriginalPrice" : "2000",
+      "courseTags" : "AIML",
+      "courseTiming" : "NULL",
+      "courseTitle" : "Artificial Intelligence & Machine Learning",
+      "courseType" : "recorded",
+      "courseWebPageUrl" : "https://courses.microdegree.work/courses/machine-learning",
+      "courseWeightage" : "20",
+      "createdTimestamp" : "11/1/21 7:00",
+      "isActive" : "TRUE",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    },
+    "course011" : {
+      "courseDetailsType" : "course",
+      "courseDiscountedPrice" : "499",
+      "courseDuration" : "NULL",
+      "courseId" : "course011",
+      "courseImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Aptitude.png?alt=media&token=4f034c1f-bd9e-46b0-b78b-97d464424209",
+      "courseOriginalPrice" : "1000",
+      "courseStartDate" : "NULL",
+      "courseTags" : "MySQL",
+      "courseTitle" : "MySQL",
+      "courseType" : "recorded",
+      "courseWebPageUrl" : "https://courses.microdegree.work/courses/mysql",
+      "courseWeightage" : "10",
+      "createdTimestamp" : "11/1/21 7:00",
+      "isActive" : "TRUE",
+      "lastModifiedBy" : "Mani",
+      "lastModifiedTimestamp" : "11/2/21 7:00"
+    }
+  },
+  "curriculumDetails" : {
+    "cd001" : {
+      "courseCurriculumId" : "cc001",
+      "curriculumDescription" : "Learn Python in just 8 hours and get Certified",
+      "curriculumDetailsId" : "cd001",
+      "curriculumDetailsType" : "goal"
+    },
+    "cd002" : {
+      "courseCurriculumId" : "cc001",
+      "curriculumDescription" : "After completing this module, you will learn about Database development history, different types of data models and the key components of database and table.",
+      "curriculumDetailsId" : "cd002",
+      "curriculumDetailsType" : "objective"
+    },
+    "cd003" : {
+      "courseCurriculumId" : "cc001",
+      "curriculumDescription" : "Brief history of database, \r\nCommercial and open-source SQL products \r\nData models, \r\nIntroduction to SQL,",
+      "curriculumDetailsId" : "cd003",
+      "curriculumDetailsType" : "topics"
+    },
+    "cd004" : {
+      "courseCurriculumId" : "cc001",
+      "curriculumDescription" : "Quizzes & Mini Projects for more Practice",
+      "curriculumDetailsId" : "cd004",
+      "curriculumDetailsType" : "handson"
+    },
+    "cd005" : {
+      "courseCurriculumId" : "cc002",
+      "curriculumDescription" : "Learn Python in just 8 hours and get Certified",
+      "curriculumDetailsId" : "cd005",
+      "curriculumDetailsType" : "goal"
+    },
+    "cd006" : {
+      "courseCurriculumId" : "cc002",
+      "curriculumDescription" : "After completing this module, you will learn about Database development history, different types of data models and the key components of database and table.",
+      "curriculumDetailsId" : "cd006",
+      "curriculumDetailsType" : "objective"
+    },
+    "cd007" : {
+      "courseCurriculumId" : "cc002",
+      "curriculumDescription" : "Brief history of database, \r\nCommercial and open-source SQL products \r\nData models, \r\nIntroduction to SQL,",
+      "curriculumDetailsId" : "cd007",
+      "curriculumDetailsType" : "topics"
+    },
+    "cd008" : {
+      "courseCurriculumId" : "cc002",
+      "curriculumDescription" : "Quizzes & Mini Projects for more Practice",
+      "curriculumDetailsId" : "cd008",
+      "curriculumDetailsType" : "handson"
+    },
+    "cd009" : {
+      "courseCurriculumId" : "cc003",
+      "curriculumDescription" : "Learn Python in just 8 hours and get Certified",
+      "curriculumDetailsId" : "cd009",
+      "curriculumDetailsType" : "goal"
+    },
+    "cd010" : {
+      "courseCurriculumId" : "cc003",
+      "curriculumDescription" : "After completing this module, you will learn about Database development history, different types of data models and the key components of database and table.",
+      "curriculumDetailsId" : "cd010",
+      "curriculumDetailsType" : "objective"
+    },
+    "cd011" : {
+      "courseCurriculumId" : "cc003",
+      "curriculumDescription" : "Brief history of database, \r\nCommercial and open-source SQL products \r\nData models, \r\nIntroduction to SQL,",
+      "curriculumDetailsId" : "cd011",
+      "curriculumDetailsType" : "topics"
+    },
+    "cd012" : {
+      "courseCurriculumId" : "cc003",
+      "curriculumDescription" : "Quizzes & Mini Projects for more Practice",
+      "curriculumDetailsId" : "cd012",
+      "curriculumDetailsType" : "handson"
+    },
+    "cd013" : {
+      "courseCurriculumId" : "cc004",
+      "curriculumDescription" : "Learn Python in just 8 hours and get Certified",
+      "curriculumDetailsId" : "cd013",
+      "curriculumDetailsType" : "goal"
+    },
+    "cd014" : {
+      "courseCurriculumId" : "cc004",
+      "curriculumDescription" : "After completing this module, you will learn about Database development history, different types of data models and the key components of database and table.",
+      "curriculumDetailsId" : "cd014",
+      "curriculumDetailsType" : "objective"
+    },
+    "cd015" : {
+      "courseCurriculumId" : "cc004",
+      "curriculumDescription" : "Brief history of database, \r\nCommercial and open-source SQL products \r\nData models, \r\nIntroduction to SQL,",
+      "curriculumDetailsId" : "cd015",
+      "curriculumDetailsType" : "topics"
+    },
+    "cd016" : {
+      "courseCurriculumId" : "cc004",
+      "curriculumDescription" : "Quizzes & Mini Projects for more Practice",
+      "curriculumDetailsId" : "cd016",
+      "curriculumDetailsType" : "handson"
+    },
+    "cd017" : {
+      "courseCurriculumId" : "cc005",
+      "curriculumDescription" : "Learn Python in just 8 hours and get Certified",
+      "curriculumDetailsId" : "cd017",
+      "curriculumDetailsType" : "goal"
+    },
+    "cd018" : {
+      "courseCurriculumId" : "cc005",
+      "curriculumDescription" : "After completing this module, you will learn about Database development history, different types of data models and the key components of database and table.",
+      "curriculumDetailsId" : "cd018",
+      "curriculumDetailsType" : "objective"
+    },
+    "cd019" : {
+      "courseCurriculumId" : "cc005",
+      "curriculumDescription" : "Brief history of database, \r\nCommercial and open-source SQL products \r\nData models, \r\nIntroduction to SQL,",
+      "curriculumDetailsId" : "cd019",
+      "curriculumDetailsType" : "topics"
+    },
+    "cd020" : {
+      "courseCurriculumId" : "cc005",
+      "curriculumDescription" : "Quizzes & Mini Projects for more Practice",
+      "curriculumDetailsId" : "cd020",
+      "curriculumDetailsType" : "handson"
+    }
+  },
+  "firstTimeUserInfo" : {
+    "user001" : {
+      "createdTimestamp" : "11/1/21 7:00",
+      "email" : "rakesh@gmail.com",
+      "firstTimeUserInfoId" : "user001",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "name" : "Rakesh",
+      "phoneNumber" : "1234567891",
+      "referralId" : "ref001"
+    },
+    "user002" : {
+      "createdTimestamp" : "11/1/21 7:00",
+      "email" : "prithvi@gmail.com",
+      "firstTimeUserInfoId" : "user002",
+      "lastModifiedBy" : "prithvi",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "name" : "Prithvi",
+      "phoneNumber" : "9207340686",
+      "referralId" : "ref002"
+    },
+    "user003" : {
+      "createdTimestamp" : "11/1/21 7:00",
+      "email" : "deeksha@gmail.com",
+      "firstTimeUserInfoId" : "user003",
+      "lastModifiedBy" : "deeksha",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "name" : "Deeksha",
+      "phoneNumber" : "9632859739",
+      "referralId" : "ref003"
+    }
+  },
+  "learnerReviews" : {
+    "lr001" : {
+      "courseId" : "course001",
+      "learnerReviewId" : "lr001",
+      "reviewStarRating" : "4",
+      "reviewerDescription" : "\"Learning in Kannada is helping out to grasp things quickly over all making it to learn in an interesting way\"",
+      "reviewerImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/lernerreviwes%2Fajay.png?alt=media&token=b572bf45-cdaf-4a62-a444-74ac38a8d2e2",
+      "reviewerName" : "Ajay"
+    },
+    "lr002" : {
+      "courseId" : "course002",
+      "learnerReviewId" : "lr002",
+      "reviewStarRating" : "5",
+      "reviewerDescription" : "\"Learning Python In kannada is Very Useful, Actually We Understand Better and Give the Confidence in this field\"",
+      "reviewerImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/lernerreviwes%2Fashwath.png?alt=media&token=6998baa3-bf4c-4d76-84b1-6e580efe5e76",
+      "reviewerName" : "Ashwath"
+    },
+    "lr003" : {
+      "courseId" : "course003",
+      "learnerReviewId" : "lr003",
+      "reviewStarRating" : "5",
+      "reviewerDescription" : "\"Thank you so much for your wonderful platform to understand the coding in Kannada. Keep supporting\"",
+      "reviewerImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/lernerreviwes%2Fashwini.png?alt=media&token=510f70cd-8574-4feb-bd18-573a6c496ee3",
+      "reviewerName" : "Ashwini"
+    },
+    "lr004" : {
+      "courseId" : "course004",
+      "learnerReviewId" : "lr004",
+      "reviewStarRating" : "4",
+      "reviewerDescription" : "\"One of the best teaching i have ever seen in my life. Thank you soooo much\"",
+      "reviewerImgUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/lernerreviwes%2Fdheeraj.png?alt=media&token=33e6e425-c260-400c-b425-bfe838b47f26",
+      "reviewerName" : "Dheeraj"
+    }
+  },
+  "stories" : {
+    "story001" : {
+      "buttonName" : "Enroll now",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "storyCampaignName" : "AWS_LiveCampaign_Nov2021",
+      "storyEndDate" : "11/2/21 7:00",
+      "storyId" : "story001",
+      "storyImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Software%20Developer.jpg?alt=media&token=6fbd250b-b882-468b-ac66-2e3a0fa80af6",
+      "storyStartDate" : "11/1/21 7:00",
+      "storyType" : "promo",
+      "storyWeightage" : "90",
+      "targetPage" : "https://courses.microdegree.work/courses/aws-developer-certification-live"
+    },
+    "story002" : {
+      "buttonName" : "Learn More",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "storyCampaignName" : "Python_LiveCampaign_Nov2021",
+      "storyEndDate" : "11/2/21 7:00",
+      "storyId" : "story002",
+      "storyImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Web%20Development.jpg?alt=media&token=cb3aaeef-349a-4e0b-8814-046fe69e5cae",
+      "storyStartDate" : "11/1/21 7:00",
+      "storyType" : "promo",
+      "storyWeightage" : "80",
+      "targetPage" : "https://courses.microdegree.work/courses/python-live-online"
+    },
+    "story003" : {
+      "buttonName" : "Enroll now",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "storyCampaignName" : "MERN_LiveCampaign_Nov2021",
+      "storyEndDate" : "11/2/21 7:00",
+      "storyId" : "story003",
+      "storyImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AWS%20_%20DevOps.png?alt=media&token=ba7fb4df-d9c0-4484-abea-676bd38aa932",
+      "storyStartDate" : "11/1/21 7:00",
+      "storyType" : "promo",
+      "storyWeightage" : "70",
+      "targetPage" : "https://courses.microdegree.work/courses/full-stack-development-mern"
+    },
+    "story004" : {
+      "buttonName" : "NULL",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "storyCampaignName" : "Quiz_Nov_Scheduled",
+      "storyEndDate" : "11/2/21 7:00",
+      "storyId" : "story004",
+      "storyImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/AIML.jpg?alt=media&token=acf0e102-82ed-4f88-91cc-db1c634f32bd",
+      "storyStartDate" : "11/1/21 7:00",
+      "storyType" : "quiz",
+      "storyWeightage" : "40",
+      "targetPage" : "https://courses.microdegree.work/courses/full-stack-development-mern"
+    },
+    "story005" : {
+      "buttonName" : "Enroll now",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "storyCampaignName" : "Offers_Nov_Scheduled",
+      "storyEndDate" : "11/2/21 7:00",
+      "storyId" : "story005",
+      "storyImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Aptitude.png?alt=media&token=4f034c1f-bd9e-46b0-b78b-97d464424209",
+      "storyStartDate" : "11/1/21 7:00",
+      "storyType" : "offers",
+      "storyWeightage" : "100",
+      "targetPage" : "https://pages.razorpay.com/pl_I83DbLvzOvyRhv/view"
+    },
+    "story006" : {
+      "buttonName" : "NULL",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "storyCampaignName" : "InterviewBites_Nov_Scheduled",
+      "storyEndDate" : "11/2/21 7:00",
+      "storyId" : "story006",
+      "storyImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Autoation%20Testing.jpg?alt=media&token=46d5506a-0038-43cb-a8c1-ba64b1706f4e",
+      "storyStartDate" : "11/1/21 7:00",
+      "storyType" : "interview bites",
+      "storyWeightage" : "60",
+      "targetPage" : "https://courses.microdegree.work/courses/full-stack-development-mern"
+    },
+    "story007" : {
+      "buttonName" : "Enroll now",
+      "createdTimestamp" : "11/1/21 7:00",
+      "lastModifiedBy" : "Rakesh",
+      "lastModifiedTimestamp" : "11/2/21 7:00",
+      "storyCampaignName" : "Hiring_Nov_Scheduled",
+      "storyEndDate" : "11/2/21 7:00",
+      "storyId" : "story007",
+      "storyImageUrl" : "https://firebasestorage.googleapis.com/v0/b/md-android-sandbox.appspot.com/o/Software%20Developer.jpg?alt=media&token=6fbd250b-b882-468b-ac66-2e3a0fa80af6",
+      "storyStartDate" : "11/1/21 7:00",
+      "storyType" : "hiring",
+      "storyWeightage" : "50",
+      "targetPage" : "https://courses.microdegree.work/courses/full-stack-development-mern"
+    }
+  }
+}

@@ -1,17 +1,19 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom";
+import About from "./compos/About";
+// import Course1 from "./compos/Course1";
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+import Navbar from "./compos/Navbar";
+import Recognition from "./compos/Recognition";
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+function Main() {
+  return (
+    <>
+      <Navbar />
+      <About />
+      <Recognition />
+    </>
+  );
+}
+
+ReactDOM.render(<Main />, document.getElementById("root"));

@@ -1,0 +1,16 @@
+import * as firebase from "firebase";
+
+var firebaseConfig = {
+  apiKey: "AIzaSyDTMPgzo8xUPcLGp63kcxmSzpgS9_YtJDM",
+  authDomain: "fetchdatabase-ff26b.firebaseapp.com",
+  databaseURL: "https://fetchdatabase-ff26b-default-rtdb.firebaseio.com",
+  projectId: "fetchdatabase-ff26b",
+  storageBucket: "fetchdatabase-ff26b.appspot.com",
+  messagingSenderId: "604402827135",
+  appId: "1:604402827135:web:79b0a60e44cf0d4b86e44a",
+  measurementId: "G-54VZB9V39P",
+};
+// Initialize Firebase
+var fireDb = firebase.initializeApp(firebaseConfig);
+
+export default fireDb.database().ref();

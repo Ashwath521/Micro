@@ -1,0 +1,44 @@
+import React, { useEffect, useState } from "react";
+import ReactDOM from "react-dom";
+import User from "./User";
+// import firebase from "./firebase";
+import Main from "./Data";
+import firebaseDb from "./firebase";
+import "./Style.css";
+
+function Render() {
+  var [contactObjects, setContactObjects] = useState({});
+  // var [currentId, setCurrentId] = useState("");
+  useEffect(() => {
+    firebaseDb.child("adBanner").on("value", (snapshot) => {
+      if (snapshot.val() != null)
+        setContactObjects({
+          ...snapshot.val(),
+        });
+      else setContactObjects({});
+    });
+  }, []);
+
+  console.log(contactObjects);
+
+  return (
+    <>
+      <h1>Welcome to Micro Degree Offers</h1>
+      <div id="adBanner">
+        {Object.keys(contactObjects).map((id) => {
+          return (
+            <div key={id} className="Banner">
+              <img src={contactObjects[id].bannerImageUrl} alt="Banner Img" />
+              <h1>{contactObjects[id].bannerCampaignName}</h1>
+              {/* <h2>{contactObjects[id].bannerStartDate}</h2> */}
+              {/* <h2>{contactObjects[id].bannerEndDate}</h2> */}
+              <button>{contactObjects[id].buttonName}</button>
+            </div>
+          );
+        })}
+      </div>
+    </>
+  );
+}
+
+ReactDOM.render(<Render />, document.getElementById("root"));
